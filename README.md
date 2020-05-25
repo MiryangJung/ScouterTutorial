@@ -60,7 +60,7 @@ You can see this
 > notepad scouter.conf (or vi scouter.conf)
 ```
 
-![agent_conf](scouterconf.png)
+![agent_conf](agentconf.png)
 
 5. Execute
 
@@ -102,4 +102,4 @@ System JRE version : 1.8.0_241
   
   
   ## Use Client
-  
+  ![client](client.png)

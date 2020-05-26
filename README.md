@@ -66,7 +66,7 @@ You can see this
 
 ```
 > cd scouter/agent.host
-> startup.bat
+> host.bat
 ```
 
 You can see this
